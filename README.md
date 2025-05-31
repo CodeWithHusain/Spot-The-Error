@@ -44,11 +44,4 @@ python spot_the_symbol.py
 Spot the same symbols: W
 Hurray!! Right answer
 
----
-### ✅ To Make This Work as a README File:
 
-1. Create a new file named `README.md`
-2. Paste the text above into it.
-3. Open it in a Markdown viewer (like GitHub, VS Code, or any Markdown editor) to see the formatting.
-
-Let me know if you’d like me to save it as a `.md` file and provide it for download.
