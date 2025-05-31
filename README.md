@@ -45,7 +45,6 @@ Spot the same symbols: W
 Hurray!! Right answer
 
 ---
-
 ### ✅ To Make This Work as a README File:
 
 1. Create a new file named `README.md`
